@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EE61-C80A
+
+ Directory of C:\Users\171044\SI_171044_lab1
+
+05/14/2019  04:10 PM    <DIR>          .
+05/14/2019  04:10 PM    <DIR>          ..
+05/14/2019  04:10 PM                 0 lab2.txt
+05/14/2019  04:08 PM               237 program.cpp
+               2 File(s)            237 bytes
+               2 Dir(s)  110,701,215,744 bytes free
